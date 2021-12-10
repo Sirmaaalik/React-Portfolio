@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.7b8267f1.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.aacecd19.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.aacecd19.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.3598f471.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.3598f471.js.map",
+    "static/js/2.bbc0f9b9.chunk.js": "/React-Portfolio/static/js/2.bbc0f9b9.chunk.js",
+    "static/js/2.bbc0f9b9.chunk.js.map": "/React-Portfolio/static/js/2.bbc0f9b9.chunk.js.map",
+    "static/js/3.5f551886.chunk.js": "/React-Portfolio/static/js/3.5f551886.chunk.js",
+    "static/js/3.5f551886.chunk.js.map": "/React-Portfolio/static/js/3.5f551886.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/main.7b8267f1.chunk.css.map": "/React-Portfolio/static/css/main.7b8267f1.chunk.css.map",
+    "static/js/2.bbc0f9b9.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.bbc0f9b9.chunk.js.LICENSE.txt",
+    "static/media/Resume.f44591f8.pdf": "/React-Portfolio/static/media/Resume.f44591f8.pdf",
+    "static/media/boxit.9946d168.png": "/React-Portfolio/static/media/boxit.9946d168.png",
+    "static/media/email.4bbf7ae4.png": "/React-Portfolio/static/media/email.4bbf7ae4.png",
+    "static/media/employeetracker.b3e91761.png": "/React-Portfolio/static/media/employeetracker.b3e91761.png",
+    "static/media/github.12aecd2f.png": "/React-Portfolio/static/media/github.12aecd2f.png",
+    "static/media/image0.720c27bc.jpg": "/React-Portfolio/static/media/image0.720c27bc.jpg",
+    "static/media/linkedin.4e0e5fb9.png": "/React-Portfolio/static/media/linkedin.4e0e5fb9.png",
+    "static/media/lips-app.efb4b2a5.png": "/React-Portfolio/static/media/lips-app.efb4b2a5.png",
+    "static/media/myadventure.73198606.png": "/React-Portfolio/static/media/myadventure.73198606.png",
+    "static/media/notetaker.6e264845.png": "/React-Portfolio/static/media/notetaker.6e264845.png",
+    "static/media/readme.437d4b1c.png": "/React-Portfolio/static/media/readme.437d4b1c.png",
+    "static/media/teamprofile.bd65306d.png": "/React-Portfolio/static/media/teamprofile.bd65306d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3598f471.js",
+    "static/js/2.bbc0f9b9.chunk.js",
+    "static/css/main.7b8267f1.chunk.css",
+    "static/js/main.aacecd19.chunk.js"
+  ]
+}
